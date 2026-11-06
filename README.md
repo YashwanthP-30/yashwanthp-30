@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+Yashwanth+P;CSE+(AI+%26+ML)+Student;AI+%26+ML+Enthusiast;Learning+%7C+Building+%7C+Growing" />
+</div>
+
 # 💫 About Me:
 # Hi, I'm Yashwanth P 👋<br><br>🎓 CSE (Artificial Intelligence & Machine Learning) Student<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, and Software Development.<br><br>💻 Currently learning Python, Java, SQL, and AI/ML concepts.<br><br>🚀 Building projects and improving my programming skills.<br><br>📫 Connect with me on GitHub and LinkedIn!
 
