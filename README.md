@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./github-banner.png" width="100%" alt="Yashwanth P Banner" />
+</div>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+Yashwanth+P;CSE+(AI+%26+ML)+Student;AI+%26+ML+Enthusiast;Learning+%7C+Building+%7C+Growing" />
 </div>
 
