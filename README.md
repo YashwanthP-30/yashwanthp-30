@@ -37,3 +37,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashwanthP-30/output/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YashwanthP-30/output/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=25" width="100%" />
+
+  <p>
+    <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
+  </p>
+
+</div>
+
